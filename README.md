@@ -1,8 +1,6 @@
 # Radar_Threat_Classification
 
-Detection de radars et discrimination des signaux malveillants au cours d'un vol aérien.
-
-Mots-clés : 
+Rapport - classification des menaces sur différents signaux radars
 - Analyse temps/fréquence
 - Décomposition de fourier
 - Extraction de features explicatives
